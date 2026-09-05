@@ -28,6 +28,20 @@ A secure desktop password manager developed using Python.
 - PBKDF2
 - Fernet
 
+  ## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Password
+![Add Password](screenshots/add-password.png)
+
+### Password Generator
+![Password Generator](screenshots/password-generator.png)
+
 ## ▶️ How to Run
 
 ```bash
