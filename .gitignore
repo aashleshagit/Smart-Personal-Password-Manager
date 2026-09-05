@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+password_manager.db
+master.hash
+encryption.salt
+
+password_manager_backup.db
+master_backup.hash
+secret_backup.key
+
+password.txt
+
+.venv/
+venv/
+.env
